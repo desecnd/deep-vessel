@@ -1,0 +1,17 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+opencv-python = "*"
+matplotlib = "*"
+scikit-image = "*"
+scikit-learn = "*"
+imblearn = "*"
+tqdm = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"
