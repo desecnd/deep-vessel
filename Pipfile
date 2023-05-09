@@ -10,6 +10,10 @@ scikit-image = "*"
 scikit-learn = "*"
 imblearn = "*"
 tqdm = "*"
+keras-unet = "*"
+keras = "*"
+tensorflow = "*"
+kutils = "*"
 
 [dev-packages]
 
