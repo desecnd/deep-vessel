@@ -1,6 +1,6 @@
 # Fundus Retinal Vessel Segmentation
 
-This project contains detailed analysis and comparison of 3 different methods for solving problem of fundus retinal vessel segmentation. It was made as part of the course "Computer Science in Medicine" during 6th semester on Poznan University of Technology. 
+This project contains detailed analysis and comparison of 3 different methods for solving problem of fundus retinal vessel segmentation. It was made as final project for the 6-th semester _Computer Science in Medicine_ subject course at Poznan University of Technology. 
 
 ![ml_result.png](results/ml/15_h_mask.png)
 
